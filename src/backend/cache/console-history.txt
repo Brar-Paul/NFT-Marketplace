@@ -1,0 +1,46 @@
+.exit
+name
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT", "0x5fc8d32690cc91d4c39d9d3abcbd16989f875707")
+.exit
+const tokenCount = await contract.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+tokenCount
+const tokenCount = await contract.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+name1
+const name1 = await contract.name()
+const name = await contract.name()
+name
+const name = await contract.name
+tokenCount
+const tokenCount = await contract.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+contract.name
+contract
+log name
+name
+const name = await contract.name()
+contract.name()
+tokenCount
+contract
+const tokenCount = await contract.tokenCount()
+contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const tokenCount = await contract.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
